@@ -1,0 +1,95 @@
+body{
+    font-family:sans-serif, serif;
+    background-color:rgb(240,240,240);
+}
+h2, p{
+    text-align: center;
+}
+a{
+    font-size: 1.1em;
+    text-decoration: none;
+    color:rgb(255, 153, 0);
+    cursor: pointer;
+}
+a:hover{
+    font-weight: bold;
+    color:red;
+}
+
+.readme-wrapper{
+    text-align: center;
+}
+
+span{
+    font-weight: 700;
+    color:purple;
+}
+
+.boxes{
+    margin:2em;
+    padding:1.5em;
+    border: 5px solid rgb(255, 102, 0);
+    border-radius: 5px;
+    width:30em;
+    display:block;
+}
+#box1{
+    background-color: rgb(127, 170, 40);
+}
+#box2{
+    background-color: rgb(173, 207, 104);
+}
+#box3{
+    background-color: rgb(108, 108, 235);
+}
+#box4{
+    background-color: rgb(41, 182, 135);
+}
+
+.picture{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: orangered;
+    position:relative;
+    left:5.5em;
+    top:4em;
+}
+
+h1{
+    color:purple;
+}
+.original{
+    color:brown;
+}
+.additional{
+    color:rgb(0, 255, 34);
+}
+#show1{
+    color:orange;
+}
+#show2{
+    color:lime;
+}
+#show3{
+    color:blue;
+}
+#show4{
+    color:blueviolet;
+}
+#show5{
+    color:yellow;
+}
+
+ul{
+    color: goldenrod;
+}
+.star{
+    color:blue;
+}
+#wars{
+    color:purple;
+}
+.morning{
+    border:2px solid black;
+}
